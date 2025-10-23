@@ -53,4 +53,5 @@ async def analiz(ctx):
         await ctx.send("Hata çıktı,fotoğraf koyunuz!(Error Code 1)")
 
 
-bot.run("MTM3NDgwMTI5MzYwMzc3MDM4OA.G4J0Ly.IPCUq7DQ38uaA3Clg9YYUc5hpNLrWKNLHnKiVU")
+bot.run("Tokeb")
+
